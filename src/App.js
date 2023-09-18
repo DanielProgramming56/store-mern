@@ -17,9 +17,10 @@ import { AdminEditUserPage } from "./pages/admin/AdminEditUserPage";
 import { AdminOrderPage } from "./pages/admin/AdminOrderPage";
 import { AdminProductsPag } from "./pages/admin/AdminProductsPag";
 import { AdminUserPage } from "./pages/admin/AdminUserPage";
-import { HeaderComponent } from "./components/HeaderComponent";
+import HeaderComponent  from "./components/HeaderComponent";
 import { FooterComponents } from "./components/FooterComponents";
 import { RouteWithUserChatComponent } from "./components/user/RouteWithUserChatComponent";
+import './App.css'
 
 function App() {
   return (
